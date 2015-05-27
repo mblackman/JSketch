@@ -1,0 +1,40 @@
+body {
+	background: #f5f5a5;
+}
+
+div#etch {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: auto;
+}
+
+button#clear {
+	margin-right: auto;
+	margin-left: auto;
+	-webkit-border-radius: 4;
+  	-moz-border-radius: 4;
+  	border-radius: 4px;
+  	font-family: Arial;
+  	color: #404040;
+  	font-size: 20px;
+  	background: #ffffff;
+  	padding: 10px 20px 10px 20px;
+  	border: solid #c9c9c9 2px;
+  	text-decoration: none;
+}
+
+.square {
+	background: #333;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+}
+
+.hover {
+	background: #000;
+}
+
+.row {
+
+}
